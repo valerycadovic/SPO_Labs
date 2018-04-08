@@ -1,2 +1,3 @@
-# SPO_Labs
-System Software Labs (4th Term)
+# System Programming Laboratory Works (SPOVM)
+
+Basic tasks on WinAPI and POSIX
