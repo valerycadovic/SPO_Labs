@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AsyncFileOperations.cpp
+  dllmain.cpp
+  IAsyncFileOperations.cpp
+  IncapsulatedWinapiFunctions.cpp
+  Создание кода...
+     Создается библиотека C:\Users\user\documents\visual studio 2017\Projects\SPOVM\Debug\AsyncFileOperations.lib и объект C:\Users\user\documents\visual studio 2017\Projects\SPOVM\Debug\AsyncFileOperations.exp
+  AsyncFileOperations.vcxproj -> C:\Users\user\documents\visual studio 2017\Projects\SPOVM\Debug\AsyncFileOperations.dll
