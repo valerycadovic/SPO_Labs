@@ -5,4 +5,4 @@
 - [Потоки](https://github.com/valerycadovic/SPO_Labs/tree/master/Windows4_Threads)
 - [Асинхронные файловые операции](https://github.com/valerycadovic/SPO_Labs/tree/master/Windows5_AsyncFiles)
 
-## Преподаватель: Самусевич А.В.
+### Преподаватель: Самусевич А.В.
